@@ -1,0 +1,671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Content Update
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Content Update
+  m_GUID: c34654829c2a4c378966510ab75c36f8
+  m_SerializeEntries:
+  - m_GUID: 0042fe101cf4d2bdbab2bfa00b2ed520
+    m_Address: 133 Cyclo Vroum
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 060a06d162e98a9f0a3288ad0a0abd7c
+    m_Address: 114 Peach
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 079d40c78ae1a9949a1d4cb2207a7293
+    m_Address: 133 Blue Falcon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d3b16000042b8e2a035ac26bd51fc0
+    m_Address: 123 Stade Waluigi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f3ae23ed12ecdf3a8cb1440de888906
+    m_Address: 112 Koopa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f569169dec85c7668858e34e2d1c34e
+    m_Address: 122 Cascades Yoshi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 121927922525bcfa788e27a38cd250ce
+    m_Address: "125 Jet\xE9e Delfino"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 185d94957b7af1ef9ba637154f67bb3f
+    m_Address: 173 Bloc POW
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a0f1a50205a370f8af1cab2b057bf0f
+    m_Address: 123 Circuit Mario 3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22436d9fb5d88786680c0b63ef9c0769
+    m_Address: "111 B\xE9b\xE9 Peach"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2289d405be3f0ca89bcc791c38a5e664
+    m_Address: 121 Circuit Mario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22a4d086bfba17153976c98d6a9b071e
+    m_Address: 112 Bowser Jr
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 234c5822ff8552563a13b767c6febae0
+    m_Address: 134 Dauphine
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26e96c26e9a26cdf8a9fb214718ca01b
+    m_Address: 122 Maison De L'Aube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29c1e070df4cc5038a8991ff6ee012ae
+    m_Address: 175 Etoile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a91b9f997fece89b8db7cddb77cab3d
+    m_Address: 113 Donkey Kong
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2aba513f158ae7aab8e1ed988baa24c8
+    m_Address: 125 Route Clair de Lune
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ddc98f421b2586f9b5736eb943f14fd
+    m_Address: 132 Mini-monstre
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f6accd848cf4539f94e845f7daeec9a
+    m_Address: 172 Champignon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30955c77f1f7cc7b8a0118b2b1f75911
+    m_Address: 122 Royaume Sorbet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31c21366cd0aa1d62b2f6723a850ec9d
+    m_Address: 115 Daisy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3347cb0bae2323ebf9de3e994d065ad2
+    m_Address: 173 Triple champigon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33b72b71fb82f7ceab67b5690c9a54c6
+    m_Address: 171 Carapace verte
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 349c66b53352c465e80ac8aa94cef4a6
+    m_Address: 175 Eclair
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35b5da5bab453f2d5a906e8e2f593d3b
+    m_Address: 114 Luigi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38dc0b17c5ede226090c6829aed75494
+    m_Address: 123 Usine Toad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a37da1dad9417b1486f42971876c534
+    m_Address: "111 B\xE9b\xE9 Mario"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b97af64041f8443087d798f973b5951
+    m_Address: 113 Toad
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c8b94a0f69a10a07b5fa614a43a97ad
+    m_Address: "124 Ch\xE2teau de Bowser 3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cf6a5d37a3603788914e8aded2ad637
+    m_Address: 124 Plage Peach
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41bf0763641a4de8c8330bb05a58bf2a
+    m_Address: 115 Funky Kong
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4285fbe4749e617cdbf6d795714a8042
+    m_Address: 133 Nostalgia
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4609ca73ab2461af7a81b7b7869d1694
+    m_Address: 123 Square bloc
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486d6c56d76fe38bd9c6192d0d0dd4fb
+    m_Address: 125 Bois Vermeil
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b2d63392a58a5891af64417119475e8
+    m_Address: 171 Banane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2fced7d4f5ba6bdaf31a0e189329fc
+    m_Address: 131 Nitrocyclette
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e3d121b790357e0c91ff40df548846e
+    m_Address: 172 Triple carapace verte
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51cc999aabdcee69aad0018c371f92dc
+    m_Address: 135 Cabriolaile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55ea47076faaedc80acf3b2f478ad64e
+    m_Address: 111 Diddy Kong
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5824b5d58e30f66e6aa6b0b0ae0a3d31
+    m_Address: 125 Circuit Daisy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb0ba3e47da22705adf68bfc68cbc2c
+    m_Address: 123 Ruines Sec Sec
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f802f5d1347f4932a87af0dd4d0afe8
+    m_Address: 131 Torpille
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fcb65fd92d05445aa9bb32aaf93a609
+    m_Address: 133 Etincelle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e81bafc28f1e683b3fc69fd00a8083
+    m_Address: 133 Kamekroiseur
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6388f4ed1f4d1f2799c97f2c00288d2d
+    m_Address: 111 Birdo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63a0151f263ac9082a58852ecde44493
+    m_Address: 131 Bolide Stellaire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64b67eb152f480cbe8cd3063fd67e472
+    m_Address: "124 Ar\xE8ne Bataille 4"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67122e612ef68948098ab0e4878bb652
+    m_Address: 134 Cheepmobile
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 675db76986f7ba5ea857a6c1e1e3c628
+    m_Address: 125 Stade Funky Kong
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d39b6a0b3bb270a88abee711da07aa2
+    m_Address: 133 Bill Becane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc7d1cecf7a8d7b4a6c13355bc271ce
+    m_Address: 122 Prairie Meuh Meuh
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a6e831c70ca31b9a02c2b54efc115d
+    m_Address: 114 Harmonie
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76e0367b4e94d7681b49d469886efe64
+    m_Address: 123 Desert Thwomp
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a28ba49c6023cb6ab3e80b8f7c6c8e8
+    m_Address: 113 Mario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a577baa65ef4da4bb5d3e20dfe13c08
+    m_Address: 135 Coin-coin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a59eb8d88b3ac1d0b3ec48ad75df128
+    m_Address: 124 Mine Wario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c90a0bcb6206a98596489a8ea2a654d
+    m_Address: 132 Kart Standard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8124ed135b7225957baabc3f483c00ca
+    m_Address: 131 Auto-pousse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8173b7c69a8e56421a4641cf4920743d
+    m_Address: 114 Roi Boo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81b8bf681f276142aa67bd5f6e416d7a
+    m_Address: "125 Ch\xE2teau de Bowser"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82f9e2b2033d15e4d8c5395af84d370b
+    m_Address: 135 Moto Mach
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85b7fac3add2876f0a5c74bd85bc6359
+    m_Address: "111 B\xE9b\xE9 Daisy"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8733dd5767d823cde8fec4886e8867a4
+    m_Address: 124 Roulette Chomp
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 873fd304eafcfd522a92e830165b7a81
+    m_Address: 131 Carosse Royal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 887a31d26843cdc6ba6557d5ecd2b64b
+    m_Address: 124 Jungle DK
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89c2aa8e2ebd58dfe8a8020b3ee3a61f
+    m_Address: 171 Nuage Zap
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91353cbae10208f0d8656451b94b6510
+    m_Address: 173 Triple banane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99767308e244683f986abe5b6b5cd5d0
+    m_Address: 113 Yoshi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a148c314e9342647f8ba5fd79ae5eb41
+    m_Address: 123 Jardin Peach
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a223dd14946595571ac2387c49ef5c91
+    m_Address: 172 Fake Item Box
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4ee7102dbd7d9ce08f2014ca52c1600
+    m_Address: 113 Bowser
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa4beb131712e4844a2857526f0a2dca
+    m_Address: 111 Toadette
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac6a2c094493ee0e3a0ae52536e97133
+    m_Address: 133 Propulsor
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aedfd21c28ac001f3ab7031c4cc0774d
+    m_Address: "125 Supermarch\xE9 Coco"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b351ab59c04f92b9dabf531453397ada
+    m_Address: 124 Quartier Delfino
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b434c6ce5adcea3a988a20af90c281b2
+    m_Address: 125 Cap Koopa
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b46a831551c56fb729d637e9a19d1a11
+    m_Address: "122 Ar\xE8ne Bataille 3"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b590420900c334e00a04c69f4db47292
+    m_Address: 124 Pic DK
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc233e5e7505b3e989d66dc5e6c2b3ab
+    m_Address: 124 Montagne DK
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be9917d9ddb4bc55f9596562cba1beb0
+    m_Address: "123 D\xE9sert du Soleil"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf2b88dbfc92ec49dabdbb7fe5423e20
+    m_Address: 125 Volcan Grondant
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4601b68c848c06bcb30196cf6f38417
+    m_Address: 121 Gorge Champignon
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c78f8fea8aaea69ca8e4cea710536e49
+    m_Address: 123 Plage Maskass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb2d759bf938eb2f6a9d393f71f7247f
+    m_Address: "124 Vall\xE9e Fant\xF4me 2"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbd9166a55aed047ea12ebd7fb414b6e
+    m_Address: 125 Circuit Luigi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd035109a3a42e8b386291e72a6d1c33
+    m_Address: "132 Scoot Com\xE8te"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d13ccc45cb71701f4a6f2fd0da30d561
+    m_Address: 171 Bloups
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d171402da76e525ebb35ca00d3433e32
+    m_Address: "111 B\xE9b\xE9 Luigi"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d269f36fdfe4b2e2e940187236f3af38
+    m_Address: 112 Skelerex
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3a9666bca1b3d72d825b208d20204f0
+    m_Address: 133 Turbo Flash
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d416257e53e300cfe923c7311e7034f0
+    m_Address: 121 Cookie Arena
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e720b225b772cdcac50de0f296440b
+    m_Address: "124 Ch\xE2teau de Bowser"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d91747bf421ffc3b48ac5f6885087b87
+    m_Address: 112 Wario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2257aed35f25a103ae5cc4a84a27c47
+    m_Address: 132 Moto standard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e332ea7bad827dc6b99d06e1b0b694b3
+    m_Address: "131 Intr\xE9pide II"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4da4ed642ac001509f165e18dc3b403
+    m_Address: 123 Circuit Mario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4e6c5e420dde6861887eb59ba29f402
+    m_Address: 172 Bob-omb
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8dbcf8aa21dc9db98e5b46af9062321
+    m_Address: 175 Bill Ball
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecef6841df0223dd1a462473a2022c1b
+    m_Address: 125 Route Arc-en-ciel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0632b36f8b044af7b0c407f2267f13f
+    m_Address: 133 Buggy Brute
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0958c19e23230c789f61506911adf8f
+    m_Address: 135 Crache-feu
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f88083dfa0e7c782f92dcc03e36fda04
+    m_Address: 131 Jet Capsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc4296b58069d9d1281c30a3be664448
+    m_Address: 121 Autodrome Mario
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcf5e798bb4b65dfbbafcd2d466cf808
+    m_Address: 112 Waluigi
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd05944eef17867e88be68d2ad432a50
+    m_Address: 173 Carapace rouge
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd90aea7402180bcdbedd781067f8d5f
+    m_Address: 133 Doryphare
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fde130200cc5ead4fba87f2e249c673b
+    m_Address: 134 Mini-mob
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe72fd06d21e43cf684995b6ea76d289
+    m_Address: 121 Gratte-ciel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - mario kart wii
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d0a247874ff1101f9ba54862d4b8984a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4a5b8edf5332cb14f994203df421cfcd, type: 2}
+    - {fileID: 11400000, guid: 0a3fc0a1f66d151228c0fd8cc199be93, type: 2}

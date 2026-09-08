@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cd622b6-8897-44c6-9539-aabff7a05046" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MainView.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Spinning Cards.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UniverseChooser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bordel Place/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bordel Place/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star artéfacts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star artéfacts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star immatérielle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star immatérielle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star perso.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star perso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star secteur.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/1 star/1 star secteur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars artéfacts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars artéfacts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars immatérielle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars immatérielle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars perso.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars perso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars secteur.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/2 stars/2 stars secteur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars artéfacts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars artéfacts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars immatérielle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars immatérielle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars perso.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars perso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars secteur.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/3 stars/3 stars secteur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars artéfacts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars artéfacts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars immatérielle.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars immatérielle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars perso.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars perso.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars perso.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars perso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars secteur.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/4 stars/4 stars secteur.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Backgrounds/5 stars/5 stars artéfacts.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Backgrounds/5 stars/5 stars artéfacts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Specials/5 stars.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Specials/5 stars.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Specials/Carte verso.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Specials/Carte verso.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Autodrome Mario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Autodrome Mario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Circuit Mario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Circuit Mario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Gorge Champignon.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/121 Gorge Champignon.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Cascades Yoshi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Cascades Yoshi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Prairie Meuh Meuh.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Prairie Meuh Meuh.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Royaume Sorbet.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/122 Royaume Sorbet.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Circuit Mario 3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Circuit Mario 3.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Circuit Mario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Circuit Mario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Désert du Soleil.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Désert du Soleil.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Jardin Peach.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Jardin Peach.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Plage Maskass.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Plage Maskass.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Ruines Sec Sec.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Ruines Sec Sec.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Stade Waluigi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Stade Waluigi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Usine Toad.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/123 Usine Toad.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Château de Bowser 3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Château de Bowser 3.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Château de Bowser.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Château de Bowser.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Jungle DK.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Jungle DK.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Mine Wario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Mine Wario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Montagne DK.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Montagne DK.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Pic DK.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Pic DK.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Plage Peach.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Plage Peach.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Quartier Delfino.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Quartier Delfino.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Vallée Fantôme 2.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/124 Vallée Fantôme 2.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Bois Vermeil.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Bois Vermeil.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Cap Koopa.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Cap Koopa.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Château de Bowser.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Château de Bowser.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Circuit Daisy.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Circuit Daisy.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Circuit Luigi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Circuit Luigi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Route Arc-en-ciel.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Route Arc-en-ciel.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Route Clair de Lune.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Route Clair de Lune.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Supermarché Coco.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Supermarché Coco.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Volcan Grondant.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/125 Volcan Grondant.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/121 Cookie Arena.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/121 Cookie Arena.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/121 Gratte-ciel.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/121 Gratte-ciel.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/122 Arène Bataille 3.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/122 Arène Bataille 3.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/122 Maison De L'Aube.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/122 Maison De L'Aube.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/123 Desert Thwomp.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/123 Desert Thwomp.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/123 Square bloc.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/123 Square bloc.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/124 Arène Bataille 4.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/124 Arène Bataille 4.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/124 Roulette Chomp.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/124 Roulette Chomp.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/125 Jetée Delfino.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/125 Jetée Delfino.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/125 Stade Funky Kong.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Circuits/Arènes/125 Stade Funky Kong.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Banane.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Banane.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Bloups.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Bloups.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Carapace verte.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Carapace verte.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Nuage Zap.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/171 Nuage Zap.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Bob-omb.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Bob-omb.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Champignon.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Champignon.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Fake Item Box.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Fake Item Box.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Triple carapace verte.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/172 Triple carapace verte.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Bloc POW.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Bloc POW.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Carapace rouge.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Carapace rouge.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Triple banane.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Triple banane.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Triple champigon.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/173 Triple champigon.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Bill Ball.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Bill Ball.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Eclair.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Eclair.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Etoile.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Items/175 Etoile.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Birdo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Birdo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Daisy.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Daisy.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Luigi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Luigi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Mario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Mario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Peach.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Bébé Peach.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Diddy Kong.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Diddy Kong.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Toadette.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/111 Toadette.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Bowser Jr.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Bowser Jr.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Koopa.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Koopa.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Skelerex.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Skelerex.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Waluigi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Waluigi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Wario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/112 Wario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Bowser.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Bowser.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Donkey Kong.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Donkey Kong.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Mario.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Mario.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Toad.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Toad.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Yoshi.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/113 Yoshi.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Harmonie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Harmonie.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Luigi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Luigi.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Peach.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Peach.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Roi Boo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/114 Roi Boo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/115 Daisy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/115 Daisy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/115 Funky Kong.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Persos/115 Funky Kong.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Auto-pousse.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Auto-pousse.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Bolide Stellaire.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Bolide Stellaire.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Carosse Royal.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Carosse Royal.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Intrépide II.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Intrépide II.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Jet Capsule.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Jet Capsule.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Nitrocyclette.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Nitrocyclette.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Torpille.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/131 Torpille.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Kart Standard.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Kart Standard.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Mini-monstre.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Mini-monstre.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Moto standard.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Moto standard.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Scoot Comète.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/132 Scoot Comète.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Bill Becane.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Bill Becane.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Blue Falcon.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Blue Falcon.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Buggy Brute.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Buggy Brute.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Cyclo Vroum.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Cyclo Vroum.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Doryphare.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Doryphare.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Etincelle.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Etincelle.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Kamekroiseur.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Kamekroiseur.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Nostalgia.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Nostalgia.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Propulsor.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Propulsor.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Turbo Flash.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/133 Turbo Flash.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Cheepmobile.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Cheepmobile.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Dauphine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Dauphine.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Mini-mob.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/134 Mini-mob.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Cabriolaile.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Cabriolaile.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Coin-coin.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Coin-coin.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Crache-feu.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Crache-feu.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Moto Mach.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Mario Kart Wii/Véhicules/135 Moto Mach.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Bowser.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Bowser.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Chrome.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Chrome.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Connasse de chat.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Connasse de chat.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Diddy Kong .jpg.meta" beforePathEscaped="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Diddy Kong 🍌.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Diddy Kong .jpg.meta" afterPathEscaped="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Diddy Kong 🍌.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Dr Eggman.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Dr Eggman.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Edge.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Edge.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Fanfaron.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Fanfaron.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Google.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Google.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 L'Alchimiste.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 L'Alchimiste.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Le Collectionneur.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Le Collectionneur.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Marmu.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Marmu.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Mawlek.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Mawlek.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Microsoft.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Microsoft.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Opera GX.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Opera GX.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Opera.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Opera.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Oshiro.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Oshiro.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Roi dadidou.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Roi dadidou.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Sorcière.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Sorcière.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Théo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Théo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Trolline.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Trolline.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Trou duc.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/211 Trou duc.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Docteur Shemp.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Docteur Shemp.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Fisher.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Fisher.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Richard.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Richard.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Toasty.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/212 Toasty.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Bentley.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Bentley.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Chasseur.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Chasseur.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Fedora.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Fedora.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Garuda Linux.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Garuda Linux.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Gnasty Gnorc.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Gnasty Gnorc.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Jacques.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Jacques.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 L'Ancien.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 L'Ancien.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Sgt. Byrd.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Sgt. Byrd.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Sheila.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/213 Sheila.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Agent 9.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Agent 9.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Brave.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Brave.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Buzz.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Buzz.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Chat Sorcier.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Chat Sorcier.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Crush.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Crush.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Debian.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Debian.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Hornet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Hornet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Le Dernier Coléoptère.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Le Dernier Coléoptère.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Le Forgeron.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Le Forgeron.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Oro et Mato.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Oro et Mato.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Sparx.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Sparx.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Vaisseau Corrompu.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/214 Vaisseau Corrompu.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Aizen.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Aizen.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Arch Linux.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Arch Linux.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Asta.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Asta.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Axel.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Axel.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Badeline.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Badeline.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Benimaru.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Benimaru.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Boshi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Boshi.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Christina.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Christina.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Claque !.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Claque !.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Cornifer.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Cornifer.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Cynthia.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Cynthia.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Dames Mantes.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Dames Mantes.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Donkey Kong.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Donkey Kong.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 EndeavourOS.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 EndeavourOS.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ethan Winters.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ethan Winters.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Firefox.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Firefox.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Fox.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Fox.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grand-mère.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grand-mère.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grand-mère.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grand-mère.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grimm.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grimm.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Groudon.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Groudon.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat .jpg.meta" beforePathEscaped="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat 🎮.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat .jpg.meta" afterPathEscaped="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat 🎮.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Grumpy Cat.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Gulp.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Gulp.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ichigo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ichigo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Io.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Io.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jack.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jack.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jack.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jack.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jesus.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jesus.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 John Wick.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 John Wick.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Joker.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Joker.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jude.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Jude.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Julien Song.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Julien Song.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Karyl.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Karyl.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kaya.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kaya.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kirbo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kirbo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kokoro.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kokoro.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kulu-Ya-Ku.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kulu-Ya-Ku.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kuzunoha.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kuzunoha.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kyogre.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Kyogre.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 L'Hollow Knight.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 L'Hollow Knight.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Laupok.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Laupok.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Link.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Link.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Linux Mint.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Linux Mint.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Lucifer.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Lucifer.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Lugulabre.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Lugulabre.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Luigi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Luigi.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Léo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Léo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mackogneur.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mackogneur.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Majaspic.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Majaspic.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mario Kart.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mario Kart.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mario.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mario.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mark.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mark.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Maître de l'Ame.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Maître de l'Ame.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Megumin.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Megumin.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mewtwo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mewtwo.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mio.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mio.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Méga Rayquaza.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Méga Rayquaza.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mélodias.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Mélodias.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 N.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 N.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Neneka.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Neneka.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pecorine.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pecorine.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pepsy.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pepsy.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Proton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Proton.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pyrax.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Pyrax.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Quirrel.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Quirrel.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Radiance.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Radiance.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Raiden.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Raiden.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rayquaza.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rayquaza.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rengoku.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rengoku.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Reshiram.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Reshiram.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Riolu.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Riolu.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ripto.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Ripto.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Roi des Cauchemars Grimm.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Roi des Cauchemars Grimm.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rosemary.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Rosemary.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Samus.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Samus.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Shawn.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Shawn.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Shogunyan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Shogunyan.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sonic.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sonic.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Spyro.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Spyro.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sung Jinwoo.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sung Jinwoo.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sôma.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Sôma.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Terminalmontage.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Terminalmontage.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Tezcat.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Tezcat.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 The Knight.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 The Knight.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Tomoe.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Tomoe.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Vaisseau Pur.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Vaisseau Pur.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Yamamoto.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Yamamoto.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Yoshi.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Yoshi.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Zekrom.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Cards/Universes/Plaise/215 Zekrom.jpg.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FPSFont/FPS Gaming Font/Square-Black SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FPSFont/FPS Gaming Font/Square-Black SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Card.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/PC_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ramine0&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ramine0/Bordel-Place.git&quot;,
+    &quot;accountId&quot;: &quot;fa654c39-7eb6-4eff-9e38-e75c4492ba32&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ff920f83e5d04639a319320d575c016a214600/5a/193196fd/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InputSystem_Actions.inputactions" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spinning Cards.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Universe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UniverseChooser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@9bffe1a216ce/Runtime/Addressables.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@9bffe1a216ce/Runtime/ResourceManager/AsyncOperations/AsyncOperationHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@f88c669a76f2/Runtime/UniversalAdditionalCameraData.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3DaWQijijxHI5bH0rTCn4B6Mtng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Builds/Bordel Place/Linux/Bordel Place.x86_64" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Builds/Bordel Place/Linux" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../6000.4.6f1/Editor/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath &quot;$PROJECT_DIR$&quot; -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unit Tests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../6000.4.6f1/Editor/Unity" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath &quot;$PROJECT_DIR$&quot; -testResults Logs/results.xml -logFile Logs/Editor.log -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" useMixedMode="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to" type="UnityDevicePlayer" factoryName="UnityAttachToDevicePlayer">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd622b6-8897-44c6-9539-aabff7a05046" name="Changes" comment="" />
+      <created>1778520649869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778520649869</updated>
+      <workItem from="1778520649871" duration="10000" />
+      <workItem from="1778567863915" duration="638000" />
+      <workItem from="1778568540093" duration="2766000" />
+      <workItem from="1779545777619" duration="4642000" />
+      <workItem from="1784063472573" duration="1567000" />
+      <workItem from="1784068048923" duration="10456000" />
+      <workItem from="1784097505840" duration="674000" />
+      <workItem from="1784110983513" duration="10497000" />
+      <workItem from="1784141025646" duration="10644000" />
+      <workItem from="1784224811413" duration="1672000" />
+    </task>
+    <task id="LOCAL-00001" summary="Delete useless files">
+      <option name="closed" value="true" />
+      <created>1778569621924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1778569621925</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1778570610709</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778570610709</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
+    <option name="unityProject" value="true" />
+    <option name="unityProjectFolder" value="true" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="Both" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Delete useless files" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

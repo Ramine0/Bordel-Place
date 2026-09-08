@@ -1,0 +1,827 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Plaise
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Plaise
+  m_GUID: 4423dbf5873f01792bba07373728be69
+  m_SerializeEntries:
+  - m_GUID: 001227679093b9520871e3fa2d22e888
+    m_Address: Assets/Cards/Universes/Plaise/213 Sheila.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01e0644ae1c83100fa54370752adb976
+    m_Address: Assets/Cards/Universes/Plaise/212 Toasty.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0554432588d2ffde1984b351ab8dae38
+    m_Address: Assets/Cards/Universes/Plaise/214 Sparx.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08775a6cb75a9769988477573ac84376
+    m_Address: Assets/Cards/Universes/Plaise/215 Pepsy.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d10d157e839e006842f662816ea34a
+    m_Address: Assets/Cards/Universes/Plaise/215 Tomoe.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e0e54bb6ea8a5f9aa2236e56d7e8bb0
+    m_Address: Assets/Cards/Universes/Plaise/215 Mario Kart.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1835c31ae812fe537917752a68c37711
+    m_Address: Assets/Cards/Universes/Plaise/215 EndeavourOS.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1dc3b57b511a39572b64b2a124c53069
+    m_Address: Assets/Cards/Universes/Plaise/215 Neneka.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ee8971caba235fdd8b2e174fd614d51
+    m_Address: Assets/Cards/Universes/Plaise/215 Spyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fee438de7a36a43687aafbc36f2d5ad
+    m_Address: Assets/Cards/Universes/Plaise/211 L'Alchimiste.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 203d7d57f53f0bc3b9da2a361dd8bd01
+    m_Address: Assets/Cards/Universes/Plaise/215 Yamamoto.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c97d81853679e548f6568e9bef2bd5
+    m_Address: Assets/Cards/Universes/Plaise/215 Yoshi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 210b7b53c8dd654c3bb1b0cf85478ada
+    m_Address: "Assets/Cards/Universes/Plaise/211 Sorci\xE8re.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 251e4a60cf86375829f5b22ccdd46f0e
+    m_Address: Assets/Cards/Universes/Plaise/215 Sonic.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2567bba4e26284c5f9ff8e1608956a48
+    m_Address: Assets/Cards/Universes/Plaise/215 Benimaru.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 270a1776c6174c45fbd30f4e0ae26418
+    m_Address: Assets/Cards/Universes/Plaise/211 Marmu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 275c4925ffd7b3e16a86df70397f6cfa
+    m_Address: Assets/Cards/Universes/Plaise/215 Firefox.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29debb156203e0c7fa29fb2c7bbc0b4d
+    m_Address: "Assets/Cards/Universes/Plaise/211 Th\xE9o.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b215c0c1902f924ab37cf555d3bfcae
+    m_Address: Assets/Cards/Universes/Plaise/215 Sung Jinwoo.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bee0ca8ce0d9c1dc9bf73e1ded35add
+    m_Address: Assets/Cards/Universes/Plaise/215 Pyrax.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e8631f68774cb39894c56cc4f7f4053
+    m_Address: Assets/Cards/Universes/Plaise/214 Agent 9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ebf851860c5e77d4a1d3a5eff9ad0b5
+    m_Address: Assets/Cards/Universes/Plaise/215 Rosemary.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f5494c561285e2dea3301fec9c86811
+    m_Address: Assets/Cards/Universes/Plaise/215 Riolu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b2fe179096f0fed9195abb1124389a
+    m_Address: Assets/Cards/Universes/Plaise/215 Arch Linux.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 335c55e709a1173ac9b1204926a54c70
+    m_Address: Assets/Cards/Universes/Plaise/215 Jude.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33845dd5920889c5a82e9c93e98519c4
+    m_Address: Assets/Cards/Universes/Plaise/215 Cornifer.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 340ba9b096e82f0adb0a3ccb23d14f71
+    m_Address: Assets/Cards/Universes/Plaise/215 Mio.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3425a5f25e96881b2b39f375e7d3069b
+    m_Address: "Assets/Cards/Universes/Plaise/215 Grumpy Cat \U0001F3AE.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35aafe6cba30b9be98a86d40d94377cd
+    m_Address: Assets/Cards/Universes/Plaise/211 Dr Eggman.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36867004f27f5feada53d9c8df87ae62
+    m_Address: Assets/Cards/Universes/Plaise/214 Le Forgeron.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b127f0b383194d27b526dd70a2b5d8b
+    m_Address: Assets/Cards/Universes/Plaise/215 Kirbo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e4d2cf2a7ba2314f82d962df472835a
+    m_Address: Assets/Cards/Universes/Plaise/215 Kokoro.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f6adb471b67d3436b4d8d7292596cf6
+    m_Address: Assets/Cards/Universes/Plaise/215 Ichigo.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43b79de0e6063f387987e12f247d4314
+    m_Address: Assets/Cards/Universes/Plaise/213 Bentley.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45b4de82386f699378b501fba9a1cbe1
+    m_Address: Assets/Cards/Universes/Plaise/212 Richard.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49d63067fb5ae2065bde3ab65a0788a4
+    m_Address: Assets/Cards/Universes/Plaise/215 Kyogre.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49fef9022ada67d05a5d3bce97efcc69
+    m_Address: Assets/Cards/Universes/Plaise/211 Mawlek.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a59ce46d18f2a2ada51147077e25851
+    m_Address: Assets/Cards/Universes/Plaise/215 Megumin.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ddd649ecf5adb72f90cfebffb5de4d5
+    m_Address: Assets/Cards/Universes/Plaise/213 Garuda Linux.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ded905ad91c4fc4b4f20e6c46ecba9
+    m_Address: Assets/Cards/Universes/Plaise/215 Radiance.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a87fbc783177f754989363edffc9cf5
+    m_Address: Assets/Cards/Universes/Plaise/211 Fanfaron.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aad1740807884215b0dc645bdca67b0
+    m_Address: Assets/Cards/Universes/Plaise/215 Roi des Cauchemars Grimm.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 653b755718cb3131688cd54ca5112219
+    m_Address: Assets/Cards/Universes/Plaise/211 Edge.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67acbffeaec43ff2dac0db01955744e3
+    m_Address: Assets/Cards/Universes/Plaise/215 Donkey Kong.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68006c487a5e97c48b8fad09eb502d2b
+    m_Address: Assets/Cards/Universes/Plaise/215 Samus.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a4a4738194ddaf23b82ec5ac2d4684e
+    m_Address: Assets/Cards/Universes/Plaise/213 Jacques.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bd6f4d07c3b28bf18590e622c193563
+    m_Address: "Assets/Cards/Universes/Plaise/214 Le Dernier Col\xE9opt\xE8re.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c1249bd0f1ff3903a43bdf8265c74ae
+    m_Address: Assets/Cards/Universes/Plaise/215 Aizen.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d8d4c51368a310a1bd20ffaea85a339
+    m_Address: "Assets/Cards/Universes/Plaise/215 M\xE9lodias.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da9adde51a9f094992cf056b46e4b32
+    m_Address: Assets/Cards/Universes/Plaise/215 Lugulabre.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72fa239cea1f78dfba666ec580dfc4be
+    m_Address: Assets/Cards/Universes/Plaise/215 N.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 752579c6935dccd3cb005d965f7a00d4
+    m_Address: Assets/Cards/Universes/Plaise/215 Shogunyan.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e740d8f1eac3a011900df05087a09cd
+    m_Address: Assets/Cards/Universes/Plaise/211 Oshiro.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f3e5e1a565698667b548690c17a2d0f
+    m_Address: Assets/Cards/Universes/Plaise/215 Quirrel.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ffdee9d6de7b9832bdeca235c917f61
+    m_Address: Assets/Cards/Universes/Plaise/211 Microsoft.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82531f2b60b6a4120b63dfd51a2e58bb
+    m_Address: Assets/Cards/Universes/Plaise/215 Mark.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8425da7b66e9a79a089254c98d318720
+    m_Address: Assets/Cards/Universes/Plaise/214 Crush.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84a240b423eb56cce9953f09fa5f2d3b
+    m_Address: Assets/Cards/Universes/Plaise/211 Google.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84ddedc27933cbcaf9dbc00e2e4c089f
+    m_Address: Assets/Cards/Universes/Plaise/214 Hornet.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84e6933fd4f76df65a112658e59b19c3
+    m_Address: Assets/Cards/Universes/Plaise/213 L'Ancien.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860a025a82a4234b4aca4d4742f509a2
+    m_Address: Assets/Cards/Universes/Plaise/215 Laupok.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c961f227bfc6a59b4c6864d80c7629
+    m_Address: Assets/Cards/Universes/Plaise/215 John Wick.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a2960c1c70690a13a78470f8ab1c244
+    m_Address: Assets/Cards/Universes/Plaise/215 Mackogneur.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bf1133704923b443b9c90978f6c2658
+    m_Address: Assets/Cards/Universes/Plaise/215 Joker.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cb3b69f84abd78e2913fda44652599e
+    m_Address: Assets/Cards/Universes/Plaise/215 Zekrom.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cff798921e7271ba9d89ab99a8f817f
+    m_Address: Assets/Cards/Universes/Plaise/215 Groudon.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d194979050d7b07bb73735601d8f6ad
+    m_Address: Assets/Cards/Universes/Plaise/213 Fedora.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d2af4bdcf8ab0b728fe59b8d637040e
+    m_Address: Assets/Cards/Universes/Plaise/211 Bowser.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 905428a9e53d8b0aa8fb76aecfb057df
+    m_Address: Assets/Cards/Universes/Plaise/211 Chrome.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90b6b4178121af1cc9a4054042b74d20
+    m_Address: Assets/Cards/Universes/Plaise/215 Reshiram.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9799baee04515f1a5bf9efd80bce3204
+    m_Address: Assets/Cards/Universes/Plaise/214 Vaisseau Corrompu.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bb258b1dc08f51d7ae07d7598f8504f
+    m_Address: "Assets/Cards/Universes/Plaise/211 Diddy Kong \U0001F34C.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c559a9c92c91770f87017cbcd28560b
+    m_Address: Assets/Cards/Universes/Plaise/215 Kaya.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cfaa896f41a6a919b44d69f3a9458fc
+    m_Address: Assets/Cards/Universes/Plaise/215 Dames Mantes.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ee96ccc4fd2b57f2b8dcbdfc445ec90
+    m_Address: Assets/Cards/Universes/Plaise/215 Jack.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19abff7e460338249f8719710bba53d
+    m_Address: Assets/Cards/Universes/Plaise/215 Rengoku.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a42b701f3151d1fda8f3f74cdff786fb
+    m_Address: Assets/Cards/Universes/Plaise/215 Jesus.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a676974579401ce17b7f22a23a91665d
+    m_Address: Assets/Cards/Universes/Plaise/215 Badeline.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c2506a96e0ff8afaa6eb01f536b494
+    m_Address: Assets/Cards/Universes/Plaise/215 Pecorine.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa816ae7658f92359bc412816e2eead7
+    m_Address: Assets/Cards/Universes/Plaise/215 Vaisseau Pur.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabd2e40c60e218d2b92c6d48c2368cf
+    m_Address: Assets/Cards/Universes/Plaise/214 Chat Sorcier.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac7d16b847ee2eeeeb5b4ccf7f0f5845
+    m_Address: Assets/Cards/Universes/Plaise/215 Luigi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acc7edb6ccf26ec1aa2f8997750eb19c
+    m_Address: Assets/Cards/Universes/Plaise/211 Roi dadidou.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0f94ea25bb5a7228b74d32ad90a4fc8
+    m_Address: Assets/Cards/Universes/Plaise/211 Trou duc.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b208c620ee2d816f9a0afc9e2e02ef9a
+    m_Address: Assets/Cards/Universes/Plaise/214 Buzz.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2dc7295a358e57dfac7f6df9da064c7
+    m_Address: Assets/Cards/Universes/Plaise/211 Opera GX.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4d8244d6c6ff586f940c681aa58cc81
+    m_Address: Assets/Cards/Universes/Plaise/215 Fox.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b598e78c41cc11a209df0cb26e5e2d1d
+    m_Address: Assets/Cards/Universes/Plaise/215 Lucifer.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7040f94a5fe351f8a21f33800b01f27
+    m_Address: Assets/Cards/Universes/Plaise/212 Docteur Shemp.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8401f48b64f91c9fbdf2cd9287abaa7
+    m_Address: Assets/Cards/Universes/Plaise/213 Sgt. Byrd.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8d36f7015afdf9f38f2a179013bdd2b
+    m_Address: Assets/Cards/Universes/Plaise/215 Ripto.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8d6949bab9d7ca5dae635f033764c1a
+    m_Address: Assets/Cards/Universes/Plaise/215 Proton.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc142f5266e0fda8d98e503f7fef6fe8
+    m_Address: Assets/Cards/Universes/Plaise/215 Raiden.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bfa0db9349f936b45a1d8f79be480cea
+    m_Address: Assets/Cards/Universes/Plaise/215 Rayquaza.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1c25d6f98442892bae5818cc55fc239
+    m_Address: Assets/Cards/Universes/Plaise/215 Io.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c480d8b57425c9e9aa3aac27f88b82ae
+    m_Address: Assets/Cards/Universes/Plaise/215 Linux Mint.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88d6e08dc18682fb976c764fd51872d
+    m_Address: "Assets/Cards/Universes/Plaise/215 M\xE9ga Rayquaza.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c95d1f2f79187abf1aaadd286e094cdd
+    m_Address: "Assets/Cards/Universes/Plaise/215 Ma\xEEtre de l'Ame.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbc77720bcf4759b8b8928f0683d4489
+    m_Address: Assets/Cards/Universes/Plaise/215 Terminalmontage.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd82b889b171a747398023ab8f3db16c
+    m_Address: "Assets/Cards/Universes/Plaise/215 S\xF4ma.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d084beca51a9eaaeeab63af48c0b2b78
+    m_Address: Assets/Cards/Universes/Plaise/214 Debian.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0972aeac5bb916da99b0d5f73a17b84
+    m_Address: "Assets/Cards/Universes/Plaise/215 Grand-m\xE8re.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b7428d92f4a5f41a4fc6733f6c1fb4
+    m_Address: Assets/Cards/Universes/Plaise/215 Karyl.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d303650dbc646f2f292c6e527bbab051
+    m_Address: Assets/Cards/Universes/Plaise/215 Gulp.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d386065f69ee8bee2b486de9db3504e6
+    m_Address: Assets/Cards/Universes/Plaise/215 Grimm.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3b8ed7552ed5ac63b89261910d41998
+    m_Address: Assets/Cards/Universes/Plaise/215 Claque !.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d68b5ba28ef13a86f85b18debb41b7ee
+    m_Address: Assets/Cards/Universes/Plaise/215 Cynthia.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6de74e4ca89cc26dab1c4a8be63b5d6
+    m_Address: Assets/Cards/Universes/Plaise/215 Kulu-Ya-Ku.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8484d8061d435c8d8aa2de9eba6f5ad
+    m_Address: Assets/Cards/Universes/Plaise/215 Kuzunoha.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d90addf00992cfab6848ad2497fd92f5
+    m_Address: Assets/Cards/Universes/Plaise/215 Grumpy Cat.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d98f5ee49e3dd642f9fdb2a604059353
+    m_Address: Assets/Cards/Universes/Plaise/215 Axel.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dabda872eb18c923d9e04264463502f4
+    m_Address: "Assets/Cards/Universes/Plaise/215 L\xE9o.jpg"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbe69c9b1ef6e87daa98b5caaee38065
+    m_Address: Assets/Cards/Universes/Plaise/212 Fisher.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dce3a9fd6f20e62a29632d713e106f5d
+    m_Address: Assets/Cards/Universes/Plaise/214 Oro et Mato.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df357a0986081e66bb8dfc035576774e
+    m_Address: Assets/Cards/Universes/Plaise/215 Asta.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e013a96a9c49785378bad3ecd8afbe48
+    m_Address: Assets/Cards/Universes/Plaise/215 Mario.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e476a38da1790d5d08cb04322810bda5
+    m_Address: Assets/Cards/Universes/Plaise/215 The Knight.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8f14b028260a0474a363ead070cd8b3
+    m_Address: Assets/Cards/Universes/Plaise/215 Majaspic.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9eb60e31995148e2a4f17e8bfd2783c
+    m_Address: Assets/Cards/Universes/Plaise/215 Link.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaecf612f54f54227bfe91931b3df778
+    m_Address: Assets/Cards/Universes/Plaise/215 Tezcat.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebc7a7c4074f5c374bc19bb220ef5c5e
+    m_Address: Assets/Cards/Universes/Plaise/215 Boshi.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec76c8099153ba84c9634916d7f01665
+    m_Address: Assets/Cards/Universes/Plaise/215 Julien Song.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb79ea55bffb675d973d7966b4a2cb3
+    m_Address: Assets/Cards/Universes/Plaise/211 Trolline.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ede371e874dbb1f06ab255bcfc457a99
+    m_Address: Assets/Cards/Universes/Plaise/215 Shawn.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef02de35cffffb4c3b9e17272bcbe0d6
+    m_Address: Assets/Cards/Universes/Plaise/215 Christina.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f59be83fb3a56aafbb3b0e9d8d504020
+    m_Address: Assets/Cards/Universes/Plaise/215 Mewtwo.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d86f03b2a39c689b31e9d61299eef0
+    m_Address: Assets/Cards/Universes/Plaise/215 Ethan Winters.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb11165a7aab110a4bdfbceb97bfedd8
+    m_Address: Assets/Cards/Universes/Plaise/211 Le Collectionneur.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb0932814cc1684aa41d0dc993c5c6e
+    m_Address: Assets/Cards/Universes/Plaise/214 Brave.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fca66e285de21b27cb1affa36fe16231
+    m_Address: Assets/Cards/Universes/Plaise/213 Chasseur.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd45fb64cb855d06b9248144e2a8027a
+    m_Address: Assets/Cards/Universes/Plaise/211 Connasse de chat.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd677152c457fd757882fa3fe588b4d1
+    m_Address: Assets/Cards/Universes/Plaise/213 Gnasty Gnorc.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe512fbb07353f326ba3a555bedc9c39
+    m_Address: Assets/Cards/Universes/Plaise/215 L'Hollow Knight.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feedf6b1deffb383184753ebcd1b962f
+    m_Address: Assets/Cards/Universes/Plaise/211 Opera.png
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - plaise
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d0a247874ff1101f9ba54862d4b8984a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 675eadd2f55d5e7bf9fec0cb3ef3aae5, type: 2}
+    - {fileID: 11400000, guid: 10994619ff4dc210291910fe561f9eed, type: 2}
